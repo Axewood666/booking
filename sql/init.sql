@@ -30,6 +30,6 @@ INSERT INTO events (
 ) VALUES ('third_test', 2);
 
 INSERT INTO bookings(event_id, user_id)
-VALUES (3, 'user321')
+VALUES (3, 'user321');
 
 COMMIT;
